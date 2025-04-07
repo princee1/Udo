@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Author
 
-Developed by Prince David Madzou. For inquiries, feel free to reach out via GitHub or email.
+Developed by Prince David Madzou - 2019. For inquiries, feel free to reach out via GitHub or email.
 
 ## Acknowledgments
 
